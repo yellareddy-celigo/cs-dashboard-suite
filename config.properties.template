@@ -1,0 +1,15 @@
+# Configuration file for CS Dashboard Suite
+# Copy this file to config.properties and fill in your values
+
+# Google Sheets Configuration
+GOOGLE_SHEET_ID=your_google_sheet_id_here
+
+# JIRA Configuration (if using direct API)
+JIRA_URL=your_jira_url_here
+JIRA_USERNAME=your_jira_username_here
+JIRA_API_TOKEN=your_jira_api_token_here
+
+# Analysis Configuration
+HOLIDAY_SEASON_START=2024-11-01
+HOLIDAY_SEASON_END=2025-01-15
+MAX_ISSUES_PER_QUERY=1000
