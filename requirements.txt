@@ -1,9 +1,28 @@
-atlassian-python-api>=3.41.0
-gspread>=6.0.0
-google-auth>=2.25.0
-google-auth-oauthlib>=1.2.0
-google-auth-httplib2>=0.2.0
-pandas>=2.0.0
-numpy>=1.24.0
-python-dateutil>=2.8.0
-schedule>=1.2.0
+# Historical CS Analysis Tool - Requirements
+# Python 3.7+
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Excel file handling
+openpyxl>=3.1.0
+
+# Argument parsing (built-in)
+# argparse is built-in to Python
+
+# Regular expressions (built-in)
+# re is built-in to Python
+
+# Collections (built-in)
+# collections is built-in to Python
+
+# DateTime (built-in)
+# datetime is built-in to Python
+
+# Subprocess (built-in)
+# subprocess is built-in to Python
+
+# System interface (built-in)
+# sys is built-in to Python
+
